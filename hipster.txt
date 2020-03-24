@@ -8,3 +8,8 @@ iHI this is hipster file
 iHI this is hipster file
 
 Testing for add and commit
+
+
+Testing staging and Commiting at once
+
+Once more  2 stagings
