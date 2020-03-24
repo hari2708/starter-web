@@ -6,3 +6,5 @@ iHI this is hipster file
 iHI this is hipster file
 iHI this is hipster file
 iHI this is hipster file
+
+Testing for add and commit
