@@ -9,3 +9,4 @@ One more modification
 ## Purpose
 
 Sample website with plenty of files for demos
+### ADDING COPY RIGHT to readme
