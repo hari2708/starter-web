@@ -10,3 +10,5 @@ One more modification
 
 Sample website with plenty of files for demos
 ### ADDING COPY RIGHT to readme
+
+### Automatinc MERGEEE
