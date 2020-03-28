@@ -17,4 +17,5 @@
     HTML5, CSS3
     jQuery, Modernizr
 
+<<<<<<< HEAD
     CHecking for conflicts via MASTER
