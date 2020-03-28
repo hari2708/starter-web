@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 ### ADDING COPY RIGHT to readme
 
 ### Automatinc MERGEEE
+
+##### TRYING REBASE .. THIS IS FROM MASTER
