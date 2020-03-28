@@ -1,3 +1,4 @@
+Try git pull
 Testing pull rebase
 Testing for GIT FETCH command
 once again
