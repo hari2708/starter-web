@@ -16,3 +16,5 @@ Sample website with plenty of files for demos
 ##### TRYING REBASE .. THIS IS FROM MASTER, and now from the FEATURE
 
 I have stashed simple html
+
+adding tags
